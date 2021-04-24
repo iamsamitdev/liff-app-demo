@@ -11,11 +11,11 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          IT Genius <a href="https://nextjs.org">Liff App</a>
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
+          เริ่มต้นกันตรงนี้เลยครับ {' '}
           <code className={styles.code}>pages/index.js</code>
         </p>
 
